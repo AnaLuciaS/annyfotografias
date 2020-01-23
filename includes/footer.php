@@ -8,7 +8,7 @@
 
             <a href="https://wa.me/558388737058">
                 <span>WHATSAPP</span>
-                <i class="facebook-icon icon1-facebook"></i>
+                <i class="instagram-icon icon3-mobile"></i>
             </a>
      
             <a href="https://www.instagram.com/annyfotografias/">
