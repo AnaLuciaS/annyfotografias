@@ -1,3 +1,25 @@
+    
+    <!-- Begin Footer -->
+    <footer>
+
+        <p class="copyrights">© ANNY FOTOGRAFIAS | TODOS OS DIREITOS RESERVADOS</p>
+
+        <div class="social-networks clearfix">
+
+            <a href="https://wa.me/558388737058">
+                <span>WHATSAPP</span>
+                <i class="facebook-icon icon1-facebook"></i>
+            </a>
+     
+            <a href="https://www.instagram.com/annyfotografias/">
+                <span>INSTAGRAM</span>
+                <i class="instagram-icon icon3-instagram"></i>
+            </a>
+        </div>
+
+    </footer>
+    <!-- End Footer -->
+
     <!-- Begin JavaScript -->
     <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
     <script type="text/javascript" src="js/migrate-1.2.1.min.js"></script>

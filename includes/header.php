@@ -33,3 +33,58 @@
 
 </head>
 <!-- End Head -->
+
+
+<!-- Begin Body -->
+<body>
+
+    <!-- Begin Loader -->
+    <div class="loader" data-background-color="#ffffff" data-text-color="#000000">
+        <p>LOADING</p>
+        <span class="circle"></span>
+    </div>
+    <!-- End Loader -->
+
+    <!-- Begin Header -->
+    <header>
+
+        <a href="." class="logo-container">
+            <p>Anny Fotografias</p>
+        </a>
+
+        <!--<a href="index.html" class="logo-container">
+            <span class="animate">
+                <img src="images/logoP.png" alt="" >
+            </span>
+        </a>-->
+
+        <nav>
+            <ul>
+                <li>
+                    <a href="." class="active">EM BREVE MAIS NOVIDADES</a>
+                </li>
+                <!--<li>
+                    <a href="#">
+                        GALERIA
+                    </a>
+                </li>
+               
+                <li>
+                    <a href="#">
+                        QUEM SOMOS
+                    </a>
+                    
+                </li>
+                <li>
+                    <a href="contato.php">
+                        CONTATO
+                    </a>
+                </li>-->
+                
+            </ul>
+        </nav>
+
+        <a href="#" class="mobile-navigation icon3-list2"></a>
+
+    </header>
+    <!-- End Header -->

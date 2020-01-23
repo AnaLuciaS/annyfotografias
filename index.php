@@ -1,55 +1,104 @@
 <?php include "includes/header.php"?>
 
 
-<!-- Begin Body -->
-<body>
 
-    <!-- Begin Loader -->
-    <div class="loader" data-background-color="#ffffff" data-text-color="#000000">
-        <p>LOADING</p>
-        <span class="circle"></span>
-    </div>
-    <!-- End Loader -->
 
     <!-- Begin Content -->
-    <div class="landing-slideshow">
+    <div class="main-container with-padding">
 
-        <!-- Begin Logo container -->
-        <div class="logo-container">
+        <!-- Begin Wrapper -->
+        <div class="wrapper">
 
-            <a href="#" class="source">
+            <!-- Begin Horizontal Gallery -->
+            <div class="gallery-h centered">
 
-                <img src="images/logo.png" alt="">
+                <div class="nav">
+                    <a href="#" class="prev icon4-leftarrow23"></a>
+                    <a href="#" class="next icon4-chevrons"></a>
+                </div>
 
-                <span class="animate">
-                    <img src="images/logo.png" alt="">
-                </span>
+                <div class="gallery clearfix">
 
-            </a>
-            
+                    <div class="container">
+
+                        <div class="img">
+                            <a href="images/gallery/h1_3.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_3.jpg" alt="" data-width="1365" data-height="2048">
+                            </a>
+                        </div>
+
+                        <div class="img">
+                            <a href="images/gallery/h1_2.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_2.jpg" alt="" data-width="600" data-height="800">
+                            </a>
+                        </div>
+
+                        <div class="img active">
+                            <a href="images/gallery/h1_1.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_1.jpg" alt="" data-width="1365" data-height="2048">
+                            </a>
+                        </div>
+
+                        <div class="img">
+                            <a href="images/gallery/h1_4.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_4.jpg" alt="" data-width="1365" data-height="2048">
+                            </a>
+                        </div>
+
+                        <div class="img">
+                            <a href="images/gallery/h1_5.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_5.jpg" alt="" data-width="1365" data-height="2048">
+                            </a>
+                        </div>
+
+                        <div class="img">
+                            <a href="images/gallery/h1_6.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_6.jpg" alt="" data-width="1365" data-height="2048">
+                            </a>
+                        </div>
+
+                        <!--<div class="img">
+                            <a href="images/gallery/h1_7.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_7.jpg" alt="" data-width="600" data-height="800">
+                            </a>
+                        </div>-->
+
+                        <div class="img active">
+                            <a href="images/gallery/h1_8.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_8.jpg" alt="" data-width="1365" data-height="2048">
+                            </a>
+                        </div>
+
+                        <div class="img">
+                            <a href="images/gallery/h1_9.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_9.jpg" alt="" data-width="1365" data-height="2048">
+                            </a>
+                        </div>
+
+                        <div class="img">
+                            <a href="images/gallery/h1_10.jpg" rel="gallery">
+                                <img class="lazy" data-original="images/gallery/h1_10.jpg" alt="" data-width="1365" data-height="2048">
+                            </a>
+                        </div>
+
+                   
+
+                        
+
+                    </div>
+
+                </div>
+
+            </div>
+            <!-- End Horizontal Gallery -->
+
         </div>
-        <!-- End Logo container -->
-
-
-        <!-- Begin Slides -->
-        <div class="flexslider">
-            <ul class="slides">
-                <li style="background-image:url(images/home/h1_1.jpg);"></li>
-                <li style="background-image:url(images/home/h1_2.jpg);"></li>
-                <li style="background-image:url(images/home/h1_3.jpg);"></li>
-                <li style="background-image:url(images/home/h1_4.jpg);"></li>
-                <li style="background-image:url(images/home/h1_8.jpg);"></li>
-                <li style="background-image:url(images/home/h1_9.jpg);"></li>
-                <li style="background-image:url(images/home/h1_10.jpg);"></li>
-                <li style="background-image:url(images/home/h1_11.jpg);"></li>
-                <li style="background-image:url(images/home/h1_12.jpg);"></li>
-                <li style="background-image:url(images/home/h1_14.jpg);"></li>
-            </ul>
-        </div>
-        <!-- End Slides -->
+        <!-- End Wrapper -->
 
     </div>
     <!-- End Content -->
 
 
-<?php include "includes/footer.php"?>
+
+
+  <?php include "includes/footer.php"?>
