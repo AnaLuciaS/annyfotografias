@@ -41,27 +41,33 @@
                             <div class="two-third col">
 
                                 <form method="post" action="http://www.codesymbol.com/templates/uno/light/includes/contact_form.php">
-                                    <input type="text" name="user_name" placeholder="NAME">
-                                    <input type="email" name="user_email" placeholder="EMAIL">
+                                    <input type="text" name="user_name" placeholder="CÓDIGO">
+                                    <!--<input type="email" name="user_email" placeholder="EMAIL">
                                     <input type="text" name="message_subject" placeholder="SUBJECT">
-                                    <textarea name="message_content" placeholder="MESSAGE"></textarea>
-                                    <input type="button" name="submit" value="SUBMIT">
+                                    <textarea name="message_content" placeholder="MESSAGE"></textarea>-->
+                                    <div class="form-check">
+                                        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                        <label class="form-check-label" for="exampleCheck1">Li e Aceito os Termos do Contrato.</label>
+                                    </div>
+                                    <input type="button" name="submit" value="GERAR CONTRATO">
                                     <p class="message-info">Message Info.</p>
+
+
                                 </form>
 
                             </div>
                             <div class="one-third col">
 
-                                <p>Vestibulum tellus risus, pretium et facilisis nec, porta in felis. Nullm fermentum, lorem nec tincidunt tempus, lectus venenatis nisi, quis ultrices tortor arcu .</p>
+                                <p>INSIRA O CÓDIGO QUE ENVIAMOS PARA QUE POSSAMOS GERAR O CONTRATO.</p>
 
-                                <p>felis. Nullm tellus risus, pretium fermentum, lorem nec tincidunt tempus, lectus venenatis nisi, quis.</p>
+                                <p></p>
 
                                 <div class="divider clear" style="height:10px;"></div>
 
-                                <div class="info-box">
+                                <!--<div class="info-box">
                                     <p class="desc">WORKING HOURS</p>
                                     <p class="info">MONDAY: 9 AM - 6 PM<br/>TUESDAY: 9 AM - 6 PM<br/>WEDNESDAY: 9 AM - 8 PM<br/>THURSDAY: 9 AM - 8 PM<br/>FRIDAY: 10 AM - 10 PM</p>
-                                </div>
+                                </div>-->
 
                             </div>
 

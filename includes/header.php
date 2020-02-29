@@ -63,9 +63,9 @@
                 <li>
                     <a href="." class="active">EM BREVE MAIS NOVIDADES</a>
                 </li>
-                <!--<li>
-                    <a href="#">
-                        GALERIA
+                <li>
+                    <a href="contato.php">
+                        CONTRATO
                     </a>
                 </li>
                
@@ -79,7 +79,7 @@
                     <a href="contato.php">
                         CONTATO
                     </a>
-                </li>-->
+                </li>
                 
             </ul>
         </nav>
